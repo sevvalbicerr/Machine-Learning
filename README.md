@@ -34,3 +34,10 @@
 8) LightGBM
 9) CatBoost
 10) Lojistik Regresyon
+
+
+## Machine Learning 501
+- Unsupervised Learning
+1) KMeans 
+2) Hiyerarşik yöntemler
+3)PCA
