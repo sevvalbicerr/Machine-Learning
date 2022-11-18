@@ -40,4 +40,4 @@
 - Unsupervised Learning
 1) KMeans 
 2) Hiyerarşik yöntemler
-3) 3)PCA
+3) PCA
